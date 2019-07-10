@@ -1,0 +1,11 @@
+.twitter-test {
+    width: 600px;
+    height: 600px;
+}
+
+#timeline {
+    display: flex;
+    justify-content: center;
+}
+
+
